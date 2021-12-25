@@ -2,7 +2,7 @@
   "name": "cards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yashaswitir28.github.io/LGMVIP-Task2",
+  "homepage": "https://lgmvip-task2.vercel.app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
