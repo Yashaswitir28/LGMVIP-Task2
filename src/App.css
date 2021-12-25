@@ -47,6 +47,10 @@
   border-radius: 0.3vw;
   overflow: hidden;
   margin-bottom: 3vh;
+  transition: all 0.2s ease-in-out;
+}
+.userContainer:hover {
+  transform: scale(1.1);
 }
 .userFirst {
   width: 20vw;
